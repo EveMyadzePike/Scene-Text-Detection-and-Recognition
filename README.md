@@ -3,6 +3,7 @@
 
 # 1. Proposed Method
 ## The models
+I am studying this repo:
 Our model comprises two parts: scene text detection and scene text recognition. the descriptions of these two models are as follow:
 
 - **Scene Text Detection** \
